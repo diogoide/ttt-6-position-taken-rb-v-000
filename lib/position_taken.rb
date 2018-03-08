@@ -3,6 +3,6 @@ def position_taken?(board,index)
   if board == "X" || "O"
     puts = "true"
   elsif board == " "
-  puts "not taken"
+  puts "false"
 end
 end
